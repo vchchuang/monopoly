@@ -1,0 +1,3 @@
+Main-Class: monopoly/main Controller Land Player TypeOne TypeTwo Land DataInput LandType RichMap TypeOthers GameProcess TypeThree
+
+
